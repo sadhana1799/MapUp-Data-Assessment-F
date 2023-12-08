@@ -12,7 +12,7 @@ def generate_car_matrix(df)->pd.DataFrame:
         pandas.DataFrame: Matrix generated with 'car' values, 
                           where 'id_1' and 'id_2' are used as indices and columns respectively.
     """
-    # Write your logic here
+    
 
     return df
 
